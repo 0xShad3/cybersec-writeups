@@ -26,7 +26,7 @@ if we perform an AND operation on it with 0xF, then what we are actually doing i
 # So how is this exploitable ?
 With such a small range of numbers, (16) no matter how secure our seed generation is, 
 we can pretty much predict its output by executing a seed generation in approximately the same time to the one
-executng on the server on the server side. Since the loss of information on the output is massive 
+on the server side. Since the loss of information on the output is massive 
 because of the AND operation the difference in time between the execution of the two scripts can be ignored. 
 
 # Exploitation

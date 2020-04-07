@@ -9,7 +9,7 @@ actually does.
 ![](seed_spring.png)
 
 Even though the code after the decompilation is self explanatory let's give a brief overview,
-so what it does is that it securely generates a seed using the current time **srand(time(NUll));**
+so what it does is that it securely generates a seed using the current time **srand(time(NULL));**
 so that's not vulnerable to any attack. But, what is exploitable is that after it calls **rand();**
 function to generate an integer it executes an AND logical operation with 0xf. Let's dive into this 
 

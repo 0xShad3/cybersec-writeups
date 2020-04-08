@@ -12,7 +12,8 @@ Looking at the file which is an image we do understand thats it's probably eithe
 # Attacking the RSA
 So using an online OCR (I wouldn't write the numbers by hand...) I took the N and C values.
 Time to write a script to break it
-```import gmpy
+```python
+import gmpy
 
 e = 3
 

@@ -14,8 +14,7 @@ Series with all the challenges from pwnable.kr I've solved. The writeups for the
 - [ ]  bof
 - [ ]  flag
 - [ ]  passcode
-- [ ]  random
-- [ ]  input
+- [ ]  random - [ ]  input
 - [ ]  leg
 - [ ]  mistake
 - [ ]  shellshock

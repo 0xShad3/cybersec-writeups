@@ -17,7 +17,7 @@ PIE       : disabled
 RELRO     : Partial
 ```
 **Functions**
-```
+```bash
 shad3@zeroday:~/Desktop/Security/CTF/virsec$ objdump -t eagle 
 
 eagle:     file format elf32-i386
@@ -102,7 +102,7 @@ Since we dont have to spawn a shell we can solve this doing exploiting a classic
 
 
 Lets write a script to exploit it
-```
+```python
 from pwn import *
 
 p = remote('jh2i.com' ,50039)

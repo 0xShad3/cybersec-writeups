@@ -8,27 +8,27 @@ Medium: https://medium.com/p/81ff5ce559b3/edit
 
 ## Pwnable.kr Writeups
 Series with all the challenges from pwnable.kr I've solved. The writeups for the challenges that are not ticked are comming up :)
-[x] fd
-[x] col
-[]  bof
-[]  flag
-[]  passcode
-[]  random
-[]  input
-[]  leg
-[]  mistake
-[]  shellshock
-[]  coin1
-[]  blackjack
-[]  lotto
-[]  cmd1
-[]  cmd2
-[]  uaf
-[]  memcpy
-[]  asm
-[]  unlink
-[]  blukat
-[]  horcruxe theschallengesstha are not Writeups
+- [x] fd
+- [x] col
+- []  bof
+- []  flag
+- []  passcode
+- []  random
+- []  input
+- []  leg
+- []  mistake
+- []  shellshock
+- []  coin1
+- []  blackjack
+- []  lotto
+- []  cmd1
+- []  cmd2
+- []  uaf
+- []  memcpy
+- []  asm
+- []  unlink
+- []  blukat
+- []  horcruxe
 ### Fireshell 2020
 CTF Writeups for the fireshell ctf 2020
 

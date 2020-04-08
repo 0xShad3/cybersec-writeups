@@ -8,7 +8,7 @@ shad3@zeroday:~/Desktop/Security/CTF/virsec$ file eagle
 eagle: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-, for GNU/Linux 3.2.0, BuildID[sha1]=a846d3f8892ac270e52ea0ce8d316fe15146d3a5, not stripped
 ```
 **Security**
-```
+```gdb
 gdb-peda$ checksec
 CANARY    : disabled
 FORTIFY   : disabled
@@ -17,7 +17,7 @@ PIE       : disabled
 RELRO     : Partial
 ```
 **Functions**
-```bash
+```
 shad3@zeroday:~/Desktop/Security/CTF/virsec$ objdump -t eagle 
 
 eagle:     file format elf32-i386

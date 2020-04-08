@@ -35,12 +35,16 @@ Series with all the challenges from pwnable.kr I've solved. The writeups for the
 Writeups for different ctf challenges I solved in competitions I took part.
 ### Fireshell 2020
 CTF Writeups for the fireshell ctf 2020
-
+- Warmup ROX (PPC/Crypto)
+- Simple Encryption (Reverse) 
 
 ### VirSecCon 2020
 CTF Writeups for the VirSecCon CTF 2020
 
 We got the 12th place out of 2500+ teams (Team Tsami,  Cert in the Directory) 
 and although we solved almost all the challenges, except from 2, in this repository you'll find writeups just for the challenges that I personally found interesting.
-
+- Count Dracula (Pwn)
+- Eagle/Baff the Bargue (Pwn)
+- Seed Spring (Pwn)
+- Old Monitor (Crypto)
 

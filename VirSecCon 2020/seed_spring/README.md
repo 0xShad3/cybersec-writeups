@@ -34,7 +34,7 @@ because of the AND operation the difference in time between the execution of the
 I also did a reverse look up on the DNS just to talk directly to the IP just to save some time on the communication.
 
 
-```
+```python
 import math
 from ctypes import CDLL
 from pwn import *

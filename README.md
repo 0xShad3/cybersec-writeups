@@ -9,9 +9,9 @@ Medium: https://medium.com/p/81ff5ce559b3/edit
 ## Pwnable.kr Writeups
 Series with all the challenges from pwnable.kr I've solved. The writeups for the challenges that are not ticked are comming up :)
 ###  Toddler's Bottle
-- [x] fd
-- [x] col
-- [ ]  bof
+- [x]  fd
+- [x]  col
+- [X]  bof
 - [x]  flag
 - [ ]  passcode
 - [ ]  random 

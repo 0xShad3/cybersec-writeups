@@ -12,7 +12,7 @@ Series with all the challenges from pwnable.kr I've solved. The writeups for the
 - [x] fd
 - [x] col
 - [ ]  bof
-- [ ]  flag
+- [x]  flag
 - [ ]  passcode
 - [ ]  random 
 - [ ]  input

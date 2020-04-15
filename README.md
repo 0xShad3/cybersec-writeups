@@ -15,7 +15,7 @@ Series with all the challenges from pwnable.kr I've solved. The writeups for the
 - [x]  flag
 - [ ]  passcode
 - [x]  random 
-- [ ]  input
+- [x]  input
 - [ ]  leg
 - [X]  mistake
 - [ ]  shellshock

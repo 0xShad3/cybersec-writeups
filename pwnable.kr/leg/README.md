@@ -129,3 +129,7 @@ Daddy has very strong arm! : 108400
 Congratz!
 Shad3 pwnned this
 ```
+
+### References
+Thumb Mode - ARM manual
+http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.ddi0344b/BEIIEGAF.html

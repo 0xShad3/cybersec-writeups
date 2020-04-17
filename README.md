@@ -18,7 +18,7 @@ Series with all the challenges from pwnable.kr I've solved. The writeups for the
 - [x]  input
 - [x]  leg
 - [X]  mistake
-- [ ]  shellshock
+- [x]  shellshock
 - [ ]  coin1
 - [ ]  blackjack
 - [ ]  lotto

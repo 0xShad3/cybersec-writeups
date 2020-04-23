@@ -26,7 +26,7 @@ Series with all the challenges from pwnable.kr I've solved. The writeups for the
 - [ ]  cmd2
 - [ ]  uaf
 - [ ]  memcpy
-- [ ]  asm
+- [x]  asm
 - [ ]  unlink
 - [ ]  blukat
 - [ ]  horcruxe
